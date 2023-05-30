@@ -19,7 +19,7 @@ const About = () => {
                 </div>
 
                 <article className="about-info">
-                    <h3>explore the difference</h3>
+                    <h3>explore the grand difference</h3>
                     <p>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
                     quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
